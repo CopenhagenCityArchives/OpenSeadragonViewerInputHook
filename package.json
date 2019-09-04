@@ -4,6 +4,7 @@
   "description": "OpenSeadragon plugin which provides hooks into the viewer input event pipeline.",
   "license": "MIT",
   "homepage": "https://github.com/msalsbery/OpenSeadragonViewerInputHook",
+  "main": "src/viewerinputhook.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/msalsbery/OpenSeadragonViewerInputHook.git"
